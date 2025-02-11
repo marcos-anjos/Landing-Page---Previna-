@@ -89,12 +89,11 @@ Distribuído sob a Licença MIT. Consulte `LICENSE.txt` para mais informações.
 <!-- CONTATO -->
 ## Contato
 
-**Marcos Vinicius**  
-*Analista de Dados e Data Viz*  
-GitHub: [@seu_usuario](https://github.com/seu_usuario) | LinkedIn: [Marcos Vinicius](https://www.linkedin.com/in/seu_usuario)
+## 👥 Equipe Previna+
 
-**Matheus Leal**  
-*Engenheiro de Dados*  
-GitHub: [@seu_usuario](https://github.com/seu_usuario) | LinkedIn: [Matheus Leal](https://www.linkedin.com/in/seu_usuario)
+| [<img src="https://github.com/user-attachments/assets/5818de52-87fa-4112-a7d3-c3d64f1b9892" width="100" style="border-radius: 50%;">](https://www.linkedin.com/in/seu_usuario1) | [<img src="https://github.com/user-attachments/assets/9bf45576-2b78-48e2-baf6-115843aa4355" width="100" style="border-radius: 50%;">](https://www.linkedin.com/in/seu_usuario2) |
+|---|---|
+| **Marcos Vinicius**  | **Matheus Leal** |
+| *Analista de Dados e Data Viz* | *Engenheiro de Dados* |
+| [GitHub](https://github.com/seu_usuario1) • [LinkedIn](https://www.linkedin.com/in/seu_usuario1) | [GitHub](https://github.com/seu_usuario2) • [LinkedIn](https://www.linkedin.com/in/seu_usuario2) |
 
-**Link do Projeto:** [https://github.com/seu_usuario/nome_repositorio](https://github.com/seu_usuario/nome_repositorio)
